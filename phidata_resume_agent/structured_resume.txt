@@ -1,0 +1,77 @@
+### Personal Info
+- Name: Ganesh Palli  
+- Location: Vadodara, Gujarat  
+- Phone: 9494548054  
+- Email: ganeshpalli779@gmail.com  
+
+---
+
+### Professional Summary or Objective
+I am a student with expertise in machine learning and large language models (LLMs), specializing in deploying models in production environments. I have experience in designing, training, fine-tuning, and optimizing models for real-world applications, building efficient pipelines that integrate into business workflows.
+
+---
+
+### Skills
+- Python  
+- SQL  
+- Pandas  
+- Numpy  
+- Scikit Learn  
+- LLMs  
+- Linear Regression  
+- Neural Networks  
+- OpenCV  
+- Communication Skills  
+
+---
+
+### Work Experience
+#### OM International Consultancy  
+- **Role:** Machine Learning Engineer  
+- **Project:** Deployed a customer support chatbot.  
+- **Details:** Worked on developing and deploying an AI-driven chatbot to enhance customer service and streamline client interactions.  
+
+#### US Client – Workflow Automation Project  
+- **Role:** AI Specialist  
+- **Project:** Developed a workflow automation solution for a US-based client.  
+- **Details:** Worked on automating business processes to improve efficiency and productivity, using machine learning and AI techniques to streamline workflows.  
+
+---
+
+### Education
+- **Degree:** Bachelors of Science in Machine Learning and Artificial Intelligence  
+- **Institution:** Parul University Of Engineering And Technology  
+- **Duration:** May 2022 - Oct 2025  
+- **Achievement:** Won 3rd place in the ML Hackathon.  
+  - **Details:** Applied machine learning techniques to solve complex problems, demonstrating strong problem-solving skills and creativity in ML applications.  
+
+---
+
+### Projects
+#### IIT Dhanbad ML Hackathon  
+- **Details:** Participated in a hackathon and applied machine learning techniques to solve complex problems.  
+
+#### Personal Project on Marico Industries  
+- **Project Focus:** Analyzed Marico Industries’ strategy for entering the US and UAE markets.  
+- **Details:** Conducted market research and strategic analysis, providing insights into expansion opportunities for Marico in these regions.  
+
+---
+
+### Certifications
+*(No certifications mentioned in the provided text.)*
+
+---
+
+### Awards and Achievements
+- Won 3rd place in the ML Hackathon (as part of the education section).  
+
+---
+
+### Languages
+*(No specific languages mentioned in the provided text.)*
+
+---
+
+### Portfolio
+*(No portfolio links or details mentioned in the provided text.)*
+
