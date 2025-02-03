@@ -14,7 +14,7 @@ load_dotenv()
 db_url = "postgresql+psycopg://ai:ai@localhost:5532/ai"
 
 azure_embedder = AzureOpenAIEmbedder(
-    api_key="22Mj7xKp5fPvOKQDZ54xncvwHCUUt27nPBhmgI89k60HJ3do1kgTJQQJ99ALACYeBjFXJ3w3AAABACOGOy3V",
+    api_key="azure openai key, i have removed of secruity phases",
     azure_deployment="text-embedding-3-small",
     azure_endpoint="https://jobspringai.openai.azure.com/openai/deployments/text-embedding-3-small/embeddings?api-version=2023-05-15"
 )
